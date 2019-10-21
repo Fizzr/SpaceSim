@@ -1,2 +1,2 @@
-# Parnes_project
-Project D7017E
+# Space Sim
+My random tinkering in unity during 2016 summer break (i believe)
